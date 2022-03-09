@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		27EF5FFD27D89703001B2A44 /* WhiteBalance.metal in Sources */ = {isa = PBXBuildFile; fileRef = 79A81C9C2101016100A3B43A /* WhiteBalance.metal */; };
+		27EF5FFE27D89704001B2A44 /* WhiteBalance.metal in Sources */ = {isa = PBXBuildFile; fileRef = 79A81C9C2101016100A3B43A /* WhiteBalance.metal */; };
 		4C280F76213426D6001A985C /* Posterize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C280F75213426D6001A985C /* Posterize.swift */; };
 		4C280F77213426D6001A985C /* Posterize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C280F75213426D6001A985C /* Posterize.swift */; };
 		4C280F79213426EC001A985C /* Posterize.metal in Sources */ = {isa = PBXBuildFile; fileRef = 4C280F78213426EC001A985C /* Posterize.metal */; };
@@ -1163,6 +1165,7 @@
 				79CB6E2C210A0CDA0042F87B /* ScreenBlend.metal in Sources */,
 				7957437820FBF4E4001EAE0A /* Haze.metal in Sources */,
 				7971E0C32357B2E9006F150F /* AdaptiveThreshold.metal in Sources */,
+				27EF5FFE27D89704001B2A44 /* WhiteBalance.metal in Sources */,
 				793D934A20F69A89008A7A6E /* HueAdjustment.metal in Sources */,
 				7B25C0EC2103D5E9000EC621 /* ColorBlend.metal in Sources */,
 				795ECA8921E91B47000EF927 /* CGAColorspace.metal in Sources */,
@@ -1368,6 +1371,7 @@
 				79CB6E2D210A0CDA0042F87B /* ScreenBlend.metal in Sources */,
 				BC5193B42208F2CE00DD18F6 /* Pixellate.metal in Sources */,
 				7971E0C42357B2E9006F150F /* AdaptiveThreshold.metal in Sources */,
+				27EF5FFD27D89703001B2A44 /* WhiteBalance.metal in Sources */,
 				7957437920FBF4E4001EAE0A /* Haze.metal in Sources */,
 				BCE0BEA320D6E3C80006E120 /* Position.swift in Sources */,
 				7B25C0ED2103D5E9000EC621 /* ColorBlend.metal in Sources */,
